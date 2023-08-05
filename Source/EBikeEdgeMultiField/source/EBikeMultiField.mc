@@ -1,5 +1,6 @@
 using Toybox.WatchUi;
 using Toybox.Application.Properties as Properties;
+using Toybox.Ant as Ant;
 
 (:gpsMap)
 const testString = "88.88";
